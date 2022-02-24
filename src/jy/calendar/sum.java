@@ -25,5 +25,6 @@ public class sum {
 		
 		//ver.3
 		System.out.printf("%d와 %d의 합은 %d 입니다", a, b, a + b);
+		scanner.close();
 	}
 }
